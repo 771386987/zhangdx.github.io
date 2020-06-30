@@ -148,16 +148,5 @@ class UnorderList:
 
 
 
-a = UnorderList()
-a.add(1)
-# a.add(2)
-# a.add(4)
-# a.insert(1,5)
-# print(a.index(1))
-# print(a.index(2))
-# print(a.index(4))
-# print(a.index(5))
-a.pop()
-print(a.size())
-# print(a.search(1))
+
 
